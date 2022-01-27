@@ -1,1 +1,1 @@
-# github-demo-day2
+# this is math project...day 2
